@@ -35,10 +35,6 @@ This repository provides an analysis of the MNIST dataset using Python and popul
 
 The project uses the **MNIST dataset**, which is a collection of 70,000 28x28 grayscale images of handwritten digits from 0 to 9. The dataset is publicly available from [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/). The dataset has been split into training and testing subsets (60,000 and 10,000 samples, respectively).
 
-Data preprocessing steps:
-- Reshaping the data for model training
-- Normalizing the pixel values to improve model performance
-
 ## How to Run
 
 ### Option 1: Run on Google Colab
