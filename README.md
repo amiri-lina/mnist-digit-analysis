@@ -39,7 +39,7 @@ The project uses the **MNIST dataset**, which is a collection of 70,000 28x28 gr
 
 ### Option 1: Run on Google Colab
 Click on the link below to open the notebook in Google Colab:
-- [Open 1_MNIST_EDA.ipynb in Colab](https://colab.research.google.com/github/amiri-lina/mnist-digit-analysis/blob/main/MNIST_EDA.ipynb)
+- [Open MNIST_EDA.ipynb in Colab](https://colab.research.google.com/github/amiri-lina/mnist-digit-analysis/blob/main/MNIST_EDA.ipynb)
 
 ### Option 2: Running Locally
 
